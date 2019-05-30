@@ -15,7 +15,7 @@ Pycharm & Jupyter Notebook
 
 ### Instructions (Two ways):
 
-#### Easiest way:
+#### The Easiest way:
 1. Download the zip file from my google drive (ignore instructions below)
 2. Type "jupyter notebook" to launch the jupyter notebook
 3. Open the "cat_dog_recognition.ipynb" to see the report
