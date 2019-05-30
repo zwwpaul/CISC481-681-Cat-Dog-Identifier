@@ -1,5 +1,6 @@
 # CISC481-681_FInal_Project
 ## Cat and Dog Identifier
+
 GitHub limites file size up to 100 MB, so I deleted all the libraries.
 GitHub link:
 https://github.com/zwwpaul/CISC481-681-Cat-Dog-Identifier
