@@ -10,8 +10,8 @@ https://drive.google.com/open?id=179tEYoRn_22EInsy4X0_9KrLjWhMTbFC
 Download the whole project (dataset included):
 https://drive.google.com/open?id=1M4u7U25M0X-HOi-K_Tw7rH4BKRblmHao
 
-### IDE:
-Pycharm
+### Tools:
+Pycharm & Jupyter Notebook
 
 ### Instructions (Two ways):
 
