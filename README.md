@@ -30,7 +30,7 @@ Pycharm & Jupyter Notebook
 4. Place the unzipped folder into Cat-Dog-Identifier folder
 5. Manually add libraries
 6. Type "jupyter notebook" to launch the jupyter notebook
-7. Open the "cat_dog_recognition.ipynb" to see the report
+7. Open the "cat_dog_recognition.ipynb" file to see report
 
 ### Notification:
 Training the model will take you a lot of time (above 30 mins).
