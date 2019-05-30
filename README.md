@@ -1,6 +1,7 @@
 # CISC481-681_FInal_Project
 ## Cat and Dog Identifier 
-### Deep Learning Method: Convolutional Neural Network
+Deep Learning Method: Convolutional Neural Network
+###
 GitHub limites file size up to 100 MB, so I deleted all the libraries.
 
 GitHub link:
